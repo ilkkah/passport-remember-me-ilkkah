@@ -1,6 +1,6 @@
 {
   "name": "passport-remember-me-ilkkah",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Remember Me cookie authentication strategy for Passport.",
   "keywords": ["passport", "cookie", "persistent", "rememberme", "auth", "authn", "authentication"],
   "repository": {
